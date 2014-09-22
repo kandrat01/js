@@ -1,3 +1,5 @@
+<MTMarkdownOptions output='raw'>
+
 Simple js plugin for jQuery library.
 Allow make searchable select box with images
 For example:
@@ -26,3 +28,4 @@ In result you get list
 </div>
 
 
+</MTMarkdownOptions>
