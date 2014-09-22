@@ -10,9 +10,9 @@ For example:
 <option value='10000' class='opt10000'>ten thousandth</option>
 </select>
 <script type='text/javascript'>
-$(document).ready(function(){
+```$(document).ready(function(){
     $('#my_selectbox')..simpSelect();
-});
+```});
 </script>
 
 In result you get list 
